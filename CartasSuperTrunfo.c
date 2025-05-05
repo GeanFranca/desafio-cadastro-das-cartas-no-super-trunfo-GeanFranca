@@ -8,8 +8,28 @@
 
 int main() {
     printf("DESAFIO SUPER TRUNFO DE PAÍSES\n");
-    
-    
+    char Estado
+    //definição de estado 
+
+    char[]
+    //definição código da carta
+
+    char[]
+    //definição nome da cidade
+
+    int população
+    //definição numero população 
+
+    int pontoturistico
+    //definição a quantidade de pontos turisticos 
+
+    float área
+    //definição em KM²
+ 
+    float pib
+    //definição em Produto Interno Bruto
+
+
     // Sugestão: Defina variáveis separadas para cada atributo da cidade.
     // Exemplos de atributos: código da cidade, nome, população, área, PIB, número de pontos turísticos.
     
